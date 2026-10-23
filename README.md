@@ -121,11 +121,7 @@ This distribution provides a standalone desktop environment of CapCut Pro for po
 
  `capcut pro` , `capcut pc mod` , `capcut desktop unlocked` , `capcut pro free download` , `video editor windows` , `capcut mod apk pc` , `4k video editing software`, `capcut no watermark`, `pro video editing suite windows 11` , `offline video editor mod`
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,5,1,0&height=40&section=footer" width="100%"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=capcut-pro-ultimate-2026&color=00f2fe&style=for-the-badge&label=VIEWS&abbreviated=true" alt="Views"/>
-</div>
+
 
 
 
